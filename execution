@@ -1,0 +1,2 @@
+>>MySys=tf(1000*[1 0],[1 10]);   %define Xfer function 
+>>BodePlotGui(MySys)        %Invoke GUI
